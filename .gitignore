@@ -41,3 +41,24 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+Blink_without_Delay/
+Debounce_switch_button_function/
+DHT-sensor-library-master.zip
+HC-SR04_test/
+HelloWorld_i2c/
+I2C_Scanner/
+lcd_i2c_test/
+libraries/DTH11/
+libraries/LiquidCrystal_I2C/
+libraries/MemoryFree-master/
+libraries/PduEncoder/
+libraries/readme.txt
+Logger/
+*.zip
+logic_analyzer-master/
+ols-0.9.7.1/
+SecretVoltmeter/
+sms_pdu/
+SoftwareSerial_SMS/
+switchCase/
+sms/

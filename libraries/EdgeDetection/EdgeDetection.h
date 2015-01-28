@@ -1,5 +1,5 @@
 /*
-  EdgeDetection - Library for detect change state of imput pin.
+  EdgeDetection - Library for detect change state of input pin.
   Created by , 27.01.2015r
   Released into the public domain.
 */
